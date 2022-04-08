@@ -1,5 +1,5 @@
 # GCF Calculator Library for LabVIEW
-Mass flow controller actual flow rate calculation library that uses gas conversion/correction factors (GCF).
+Mass flow meter/controller actual flow rate calculation library that uses gas conversion/correction factors (GCF).
 
 ## Features
 1. Several selectable sources of GCF data. 
