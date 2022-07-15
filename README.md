@@ -5,6 +5,9 @@ Mass flow meter/controller actual flow rate calculation library for LabVIEW that
 1. Several selectable sources of GCF data. 
 2. Simple mixture GCF calculation based on volumetric part of gases in the mixture.  
 
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_gcf_calculator/)
+
 ## Examples
 ### Flow Rate Calculator.vi
 Example VI that demonstrates all library features.
