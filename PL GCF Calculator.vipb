@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-05 19:47:26" Modified_Date="2022-07-05 17:13:17" Creator="Researcher" Comments="" ID="78600ae0221c7b5bc7cc6370283bdf99">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-05 19:47:26" Modified_Date="2022-11-09 20:29:35" Creator="Researcher" Comments="" ID="401f95e618e73910bf9a8ae92ef7170d">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_GCF_Calculator</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.1.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -36,8 +36,8 @@ Features:
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/gcf-calculator-labview</URL>
-      <Release_Notes>Changed:
-- Changed Flow Rate Calculator.vi destination to examples folder.</Release_Notes>
+      <Release_Notes>Fixed
+- Flow Rate Calculator.vi destination to examples folder.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -228,7 +228,7 @@ Features:
         <Path>Public\Calculate Flow Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0615D39EC831C13903A519B8E6FAFD86</GUID>
+      <GUID>3DCE8DFAC7BD70609764DFDAD5E183D2</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
